@@ -1,0 +1,46 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a893128d-0446-4806-bb3d-f57ceb3eefd5" name="steunpunt" url="http://www.steunpunttoerisme.be">
+        <fileTransfer host="85.255.204.130" port="21" rootFolder="/wwwroot">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e4a140f7-cfaf-45e1-b700-67daddd01cea" name="VakPart Test" url="http://test.vakantieparticipatie.be">
+        <fileTransfer host="test.vakantieparticipatie.be" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0dae2cd2-9f72-4d65-89ad-9097d2294cc8" name="Subtitles" url="http://jhtpc.servebeer.com">
+        <fileTransfer host="jhtpc.servebeer.com" port="8022" rootFolder="/home/jan/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="8022" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bf006148-79b6-4283-9f80-90824048f366" name="Odina" url="http://ftp.odina.be">
+        <fileTransfer host="ftp.odina.be" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4951d613-8134-4a75-b0f2-d64d745896c8" name="gies.be" url="http://www.vcdegies.be">
+        <fileTransfer host="ftp.vcdegies.be" port="21" rootFolder="/domains/vcdegies.be/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

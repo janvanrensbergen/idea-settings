@@ -1,0 +1,857 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true">
+            <sourceOutputDir name="target/scala-2.11/src_managed/main" />
+            <sourceTestOutputDir name="target/src_managed/test" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="DefaultGradleProjectSettings">
+        <option name="testRunner" value="GRADLE" />
+        <option name="delegatedBuild" value="true" />
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Projects/INBO/GRAILS-test" value="1446217495000" />
+            <entry key="$USER_HOME$/Projects/INBO/auth-service" value="1451978943000" />
+            <entry key="$USER_HOME$/Projects/INBO/esd-indicators" value="1433230026000" />
+            <entry key="$USER_HOME$/Projects/INBO/inbo-grails-plugin" value="2888157152000" />
+            <entry key="$USER_HOME$/Projects/INBO/inbo-skeleton" value="7230937235000" />
+            <entry key="$USER_HOME$/Projects/INBO/inbodem-final" value="10063710952000" />
+            <entry key="$USER_HOME$/Projects/INBO/oppervlaktewater" value="10146968202000" />
+            <entry key="$USER_HOME$/Projects/INBO/pure-test" value="1430123882000" />
+            <entry key="$USER_HOME$/Projects/INBO/rowversion-poc" value="1430225283000" />
+            <entry key="$USER_HOME$/Projects/INBO/waterbirds" value="10185830226000" />
+            <entry key="$USER_HOME$/Projects/INBO/wild_autopsies" value="12983202309000" />
+            <entry key="$USER_HOME$/Projects/TVL/ProductInformationManagement" value="31213234451000" />
+            <entry key="$USER_HOME$/Projects/persgroep/content-to-page" value="2975891690000" />
+            <entry key="$USER_HOME$/Projects/sagan" value="8655455166000" />
+            <entry key="$USER_HOME$/Projects/sandbox/angular-spring-data-rest-sample" value="1432658180000" />
+            <entry key="$USER_HOME$/Projects/sandbox/auth" value="1448609748000" />
+            <entry key="$USER_HOME$/Projects/sandbox/event-source-cqrs-sample" value="2960125564000" />
+            <entry key="$USER_HOME$/Projects/sandbox/fpinjava/fpinjava-parent" value="2982750268000" />
+            <entry key="$USER_HOME$/Projects/sandbox/geb-example-gradle" value="1456132448000" />
+            <entry key="$USER_HOME$/Projects/sandbox/grailscourse/grails-kickstart" value="1432028832000" />
+            <entry key="$USER_HOME$/Projects/sandbox/projectreactor.io" value="1484590257000" />
+            <entry key="$USER_HOME$/Projects/sandbox/racing-streams/apps" value="2963715387000" />
+            <entry key="$USER_HOME$/Projects/sandbox/sagan" value="2860618182000" />
+            <entry key="$USER_HOME$/Projects/sandbox/sleuth-demo" value="2933266745000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spek" value="2978987498000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spock-example" value="2864056011000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-cloud-sso" value="1447856617000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-reactive" value="2936955122000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-reactive-playground" value="1468424669000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-restdocs" value="10270899954000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-restdocs/samples/rest-notes-spring-hateoas" value="1467271422000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-security" value="77020570218000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-social-twitter" value="4332096417000" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-test-htmlunit" value="7266397500000" />
+            <entry key="$USER_HOME$/Projects/sandbox/uaa-demo" value="1454491425000" />
+            <entry key="$USER_HOME$/Projects/spring-integration-samples" value="2883441436000" />
+            <entry key="$USER_HOME$/Projects/spring-social-twitter" value="5776891176000" />
+            <entry key="$USER_HOME$/Projects/tothepoint/cadastre-old" value="7354467755000" />
+            <entry key="$USER_HOME$/Projects/tothepoint/keng-cadastre" value="17607635948000" />
+            <entry key="$USER_HOME$/Projects/tothepoint/keng-cadastre-cqrs" value="5859153555000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/boot-admin" value="1429887415000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/boot-stateless-social" value="1428492753000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/eureka/eureka-client-server" value="1429942811000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/grails/helloworld" value="1429873155000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/gs-messaging-reactor/initial" value="1412793243000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/gs-reactor-thumbnailer/complete" value="1412879673000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/reactor-si-quickstart/simpel-client-server" value="1413381793000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/sagan/gradle" value="5721235060000" />
+            <entry key="$USER_HOME$/Projects/tryOuts/spring-integration-samples" value="2825522158000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/generated-code" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/liantis/AdminServer" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/liantis/sandbox" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/liantis/zo-startersomgeving-itsme-poc" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/indesign-speed-poc" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/pica-notifications" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/print-article-creator" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/print-article-listener" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/print-platform-plugin" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/sandbox/notifications" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/sandbox/smb-client" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/sandbox/tictactoe" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/shire-lambda" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/persgroep/the-page/the-page-content-available-listener" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/sandbox/building-java-9-modules" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/sandbox/kotlin-gradle" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/sandbox/processing" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/sandbox/reactor-core" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/sandbox/spring-kotlin-functional" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/tothepoint/gamification-front" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/tothepoint/selfscan" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>AOP</id>
+              </State>
+              <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
+                <id>ActionScript specificJavaScript</id>
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Accessibility</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness &gt; Chrome OS</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Internationalization</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Lint</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Performance</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Security</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Usability</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+              </State>
+              <State>
+                <id>Android Lint for Kotlin</id>
+              </State>
+              <State>
+                <id>Ant inspections</id>
+              </State>
+              <State>
+                <id>Application Server Specific Inspections</id>
+              </State>
+              <State>
+                <id>ArquillianJava</id>
+              </State>
+              <State>
+                <id>Assignment issuesJava</id>
+              </State>
+              <State>
+                <id>BPMN 2.0 configuration errors</id>
+              </State>
+              <State>
+                <id>BashSupport</id>
+              </State>
+              <State>
+                <id>Batch Applications Issues</id>
+              </State>
+              <State>
+                <id>Bean Validation issues</id>
+              </State>
+              <State>
+                <id>CDI(Contexts and Dependency Injection) issues</id>
+              </State>
+              <State>
+                <id>CFML</id>
+              </State>
+              <State>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>Class metricsJava</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Cloning issuesJava</id>
+              </State>
+              <State>
+                <id>Code StylePHP</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Code quality toolsCSS</id>
+              </State>
+              <State>
+                <id>Code quality toolsJavaScript</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJavaScript</id>
+              </State>
+              <State>
+                <id>CodeSpring CoreSpring</id>
+              </State>
+              <State>
+                <id>CoffeeScript</id>
+              </State>
+              <State>
+                <id>CollectionsScala</id>
+              </State>
+              <State>
+                <id>Concurrency annotation issuesJava</id>
+              </State>
+              <State>
+                <id>Control flow issuesGroovy</id>
+              </State>
+              <State>
+                <id>Control flow issuesJava</id>
+              </State>
+              <State>
+                <id>Control flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Cucumber</id>
+              </State>
+              <State>
+                <id>Cucumber Java</id>
+              </State>
+              <State>
+                <id>Data flow issuesGroovy</id>
+              </State>
+              <State>
+                <id>Data flow issuesJava</id>
+              </State>
+              <State>
+                <id>Declaration redundancyGroovy</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>DeclarationGroovy</id>
+              </State>
+              <State>
+                <id>Dependency issuesJava</id>
+              </State>
+              <State>
+                <id>Dockerfile issues</id>
+              </State>
+              <State>
+                <id>ECMAScript 6 migration aidsJavaScript</id>
+              </State>
+              <State>
+                <id>Encapsulation issuesJava</id>
+              </State>
+              <State>
+                <id>Error handlingGroovy</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>Error handlingJavaScript</id>
+              </State>
+              <State>
+                <id>Error handlingPHP</id>
+              </State>
+              <State>
+                <id>Faces Model</id>
+              </State>
+              <State>
+                <id>File Watchers</id>
+              </State>
+              <State>
+                <id>Finalization issuesJava</id>
+              </State>
+              <State>
+                <id>FlexUnit inspections</id>
+              </State>
+              <State>
+                <id>Flow type checkerJavaScript</id>
+              </State>
+              <State>
+                <id>FreeMarker inspections</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>GeneralCoffeeScript</id>
+              </State>
+              <State>
+                <id>GeneralJava</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>GeneralPHP</id>
+              </State>
+              <State>
+                <id>GeneralScala</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
+              </State>
+              <State>
+                <id>GrailsGroovy</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>Guice Inspections</id>
+              </State>
+              <State>
+                <id>HTML</id>
+              </State>
+              <State>
+                <id>Hibernate Issues</id>
+              </State>
+              <State>
+                <id>ImportsJava</id>
+              </State>
+              <State>
+                <id>IndicesCollectionsScala</id>
+              </State>
+              <State>
+                <id>Inheritance issuesJava</id>
+              </State>
+              <State>
+                <id>Initialization issuesJava</id>
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>Internationalization issuesJava</id>
+              </State>
+              <State>
+                <id>Invalid elementsCSS</id>
+              </State>
+              <State>
+                <id>J2ME SupportJava</id>
+              </State>
+              <State>
+                <id>J2ME issuesJava</id>
+              </State>
+              <State>
+                <id>JBoss Seam issues</id>
+              </State>
+              <State>
+                <id>JPA issues</id>
+              </State>
+              <State>
+                <id>JSON</id>
+              </State>
+              <State>
+                <id>JSP Inspections</id>
+              </State>
+              <State>
+                <id>JUnit issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java EE issues</id>
+              </State>
+              <State>
+                <id>Java interop issuesKotlin</id>
+              </State>
+              <State>
+                <id>Java language level issuesJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavaBeans issuesJava</id>
+              </State>
+              <State>
+                <id>JavaFX</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript function metricsJavaScript</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>Kotlin Android</id>
+              </State>
+              <State>
+                <id>Logging issuesJava</id>
+              </State>
+              <State>
+                <id>Manifest</id>
+              </State>
+              <State>
+                <id>Markdown</id>
+              </State>
+              <State>
+                <id>Memory issuesJava</id>
+              </State>
+              <State>
+                <id>Method metricsGroovy</id>
+              </State>
+              <State>
+                <id>Method metricsJava</id>
+              </State>
+              <State>
+                <id>Method signatureScala</id>
+              </State>
+              <State>
+                <id>Modularization issuesJava</id>
+              </State>
+              <State>
+                <id>Naming conventionsGroovy</id>
+              </State>
+              <State>
+                <id>Naming conventionsJava</id>
+              </State>
+              <State>
+                <id>Naming conventionsJavaScript</id>
+              </State>
+              <State>
+                <id>Naming conventionsPHP</id>
+              </State>
+              <State>
+                <id>Node.jsJavaScript</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>OSGi</id>
+              </State>
+              <State>
+                <id>OptionsCollectionsScala</id>
+              </State>
+              <State>
+                <id>Other problemsKotlin</id>
+              </State>
+              <State>
+                <id>OtherCollectionsScala</id>
+              </State>
+              <State>
+                <id>OtherGroovy</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Packaging issuesJava</id>
+              </State>
+              <State>
+                <id>Pages Navigation Model</id>
+              </State>
+              <State>
+                <id>Pattern Validation</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
+              </State>
+              <State>
+                <id>Portability issuesJava</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsGroovy</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugs</id>
+              </State>
+              <State>
+                <id>Probable bugsCoffeeScript</id>
+              </State>
+              <State>
+                <id>Probable bugsGroovy</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+              <State>
+                <id>Probable bugsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsKotlin</id>
+              </State>
+              <State>
+                <id>Probable bugsPHP</id>
+              </State>
+              <State>
+                <id>Properties Files</id>
+              </State>
+              <State>
+                <id>Properties FilesJava</id>
+              </State>
+              <State>
+                <id>RELAX NG</id>
+              </State>
+              <State>
+                <id>RESTful Web Service</id>
+              </State>
+              <State>
+                <id>Redundant constructsKotlin</id>
+              </State>
+              <State>
+                <id>Reflective access issuesJava</id>
+              </State>
+              <State>
+                <id>Resource management issuesJava</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>Sass/SCSS</id>
+              </State>
+              <State>
+                <id>Scala</id>
+              </State>
+              <State>
+                <id>Scala: General</id>
+              </State>
+              <State>
+                <id>Security issuesJava</id>
+              </State>
+              <State>
+                <id>Serialization issuesJava</id>
+              </State>
+              <State>
+                <id>SetupSpring CoreSpring</id>
+              </State>
+              <State>
+                <id>Simplifications: filter and existsCollectionsScala</id>
+              </State>
+              <State>
+                <id>Simplifications: find and map to applyCollectionsScala</id>
+              </State>
+              <State>
+                <id>Simplifications: forall and existsCollectionsScala</id>
+              </State>
+              <State>
+                <id>Simplifications: otherCollectionsScala</id>
+              </State>
+              <State>
+                <id>SizeCollectionsScala</id>
+              </State>
+              <State>
+                <id>Spelling</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>Spring BootSpring</id>
+              </State>
+              <State>
+                <id>Spring CloudSpring</id>
+              </State>
+              <State>
+                <id>Spring CoreSpring</id>
+              </State>
+              <State>
+                <id>Spring SecuritySpring</id>
+              </State>
+              <State>
+                <id>Spring Web FlowSpring</id>
+              </State>
+              <State>
+                <id>Spring Web ServicesSpring</id>
+              </State>
+              <State>
+                <id>Struts</id>
+              </State>
+              <State>
+                <id>Struts 1Struts</id>
+              </State>
+              <State>
+                <id>Struts 2Struts</id>
+              </State>
+              <State>
+                <id>Style issuesKotlin</id>
+              </State>
+              <State>
+                <id>Syntactic ClarificationScala</id>
+              </State>
+              <State>
+                <id>Syntactic SimplificationScala</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesGroovy</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+              <State>
+                <id>Type compatibilityPHP</id>
+              </State>
+              <State>
+                <id>TypeScript</id>
+              </State>
+              <State>
+                <id>UI Form Problems</id>
+              </State>
+              <State>
+                <id>UndefinedPHP</id>
+              </State>
+              <State>
+                <id>Unit testingJavaScript</id>
+              </State>
+              <State>
+                <id>UnusedPHP</id>
+              </State>
+              <State>
+                <id>Validity issuesGroovy</id>
+              </State>
+              <State>
+                <id>Velocity inspections</id>
+              </State>
+              <State>
+                <id>Visibility issuesJava</id>
+              </State>
+              <State>
+                <id>Web Services</id>
+              </State>
+              <State>
+                <id>WebSocket issues</id>
+              </State>
+              <State>
+                <id>XML</id>
+              </State>
+              <State>
+                <id>XMLSpring CoreSpring</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+              <State>
+                <id>docker-compose</id>
+              </State>
+              <State>
+                <id>toString() issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+        <property name="options.searchVisible" value="true" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+      </component>
+      <component name="PyConsoleOptionsProvider">
+        <option name="myPythonConsoleState">
+          <console-settings />
+        </option>
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="RunManager">
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Projects/sandbox/activator-lagom-cargotracker" value="1476253203000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="myTodoPanelSettings">
+          <TodoPanelSettings />
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>grails-3.0.1</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.6</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

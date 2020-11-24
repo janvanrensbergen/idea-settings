@@ -1,0 +1,16 @@
+<templateSet group="other">
+  <template name="id" value="@javax.persistence.Id&#10;@javax.persistence.GeneratedValue(strategy = javax.persistence.GenerationType.IDENTITY)&#10;private Long id;" description="Jpa id" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="col" value="@javax.persistence.Column(name = &quot;$COLUMN$&quot;)&#10;private $TYPE$ $NAME$;&#10;&#10;$END$" description="Add jpa column" toReformat="false" toShortenFQNames="true">
+    <variable name="COLUMN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

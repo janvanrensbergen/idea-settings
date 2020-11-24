@@ -1,0 +1,19 @@
+<templateSet group="user">
+  <template name="ee" value="@org.junit.Rule&#10;public final org.junit.rules.ExpectedException exception = org.junit.rules.ExpectedException.none();" description="Expected exception Junit Rule" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sa" value="@org.junit.Rule&#10;public final org.assertj.core.api.JUnitSoftAssertions softly = new org.assertj.core.api.JUnitSoftAssertions();" description="Assertj JunitSoftly rule" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="log" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($className$.class);" description="Slf4j logger" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

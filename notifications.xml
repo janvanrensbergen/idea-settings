@@ -3,6 +3,7 @@
     <notification groupId="AIR Packaging" />
     <notification groupId="Android Module Importing" />
     <notification groupId="Android Property Files Updating" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Clean artifact" />
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
     <notification groupId="Compiler" displayType="NONE" />

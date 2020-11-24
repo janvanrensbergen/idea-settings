@@ -1,0 +1,47 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="129.1328" />
+      <item value="143.1820" />
+      <item value="144.4199" />
+      <item value="145.256" />
+      <item value="162.917" />
+      <item value="163.6512.17" />
+      <item value="163.9166.20" />
+      <item value="163.9166.7" />
+      <item value="163.10154.17" />
+      <item value="171.1834.9" />
+      <item value="163.11103.1" />
+      <item value="171.2014.21" />
+      <item value="163.11103.3" />
+      <item value="171.2272.14" />
+      <item value="163.12024.11" />
+      <item value="171.2613.7" />
+      <item value="171.3224.1" />
+      <item value="163.13906.6" />
+      <item value="171.3019.7" />
+      <item value="171.2822.15" />
+      <item value="171.3566.24" />
+      <item value="171.3780.52" />
+      <item value="163.15188.5" />
+      <item value="171.3780.107" />
+      <item value="171.4073.28" />
+      <item value="171.4073.17" />
+      <item value="171.4249.4" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="IU-202.7660.26" />
+    <option name="LAST_TIME_CHECKED" value="1606203587072" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

@@ -12,9 +12,9 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".reload" type="PLAIN_TEXT" />
-      <mapping pattern=".jdk8" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".jdk8" type="PLAIN_TEXT" />
       <mapping pattern="pim-integration-tdb-service" type="PLAIN_TEXT" />
       <mapping pattern="pim-integration-tdb" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />

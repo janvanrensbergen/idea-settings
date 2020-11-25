@@ -1,58 +1,58 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift ctrl meta f4" />
+    <keyboard-shortcut first-keystroke="shift control meta F4" />
   </action>
   <action id="Console.Oracle.DbmsOutput" />
   <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="meta right" />
-    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+    <keyboard-shortcut first-keystroke="END" />
+    <keyboard-shortcut first-keystroke="meta RIGHT" />
+    <keyboard-shortcut first-keystroke="control meta alt RIGHT" />
   </action>
   <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="meta left" />
-    <keyboard-shortcut first-keystroke="ctrl meta alt left" />
+    <keyboard-shortcut first-keystroke="HOME" />
+    <keyboard-shortcut first-keystroke="meta LEFT" />
+    <keyboard-shortcut first-keystroke="control meta alt LEFT" />
   </action>
   <action id="EditorToggleColumnMode">
-    <keyboard-shortcut first-keystroke="shift meta multiply" />
+    <keyboard-shortcut first-keystroke="shift meta MULTIPLY" />
     <keyboard-shortcut first-keystroke="shift meta 8" />
   </action>
   <action id="MinimizeCurrentWindow" />
   <action id="PublishGroup.Download">
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="shift meta D" />
   </action>
   <action id="PublishGroup.Upload">
-    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta O" />
   </action>
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="meta m" />
+    <keyboard-shortcut first-keystroke="meta M" />
   </action>
   <action id="StepInto">
-    <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="F7" />
+    <keyboard-shortcut first-keystroke="control alt F7" />
   </action>
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="f8" />
-    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+    <keyboard-shortcut first-keystroke="F8" />
+    <keyboard-shortcut first-keystroke="control alt F8" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="shift ctrl meta f12" />
+    <keyboard-shortcut first-keystroke="shift control meta F12" />
   </action>
   <action id="ToggleLineBreakpoint" />
   <action id="Uml.ShowDiff" />

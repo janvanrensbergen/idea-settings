@@ -3,28 +3,29 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="*JenkinsFile" type="Groovy" />
-      <mapping pattern="JenkinsFile" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="JenkinsFile" type="Groovy" />
       <mapping ext="radar" type="Groovy" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="composer.lock" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="pim-integration-tdb" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="pim-integration-tdb-service" type="PLAIN_TEXT" />
-      <mapping pattern=".jdk8" type="PLAIN_TEXT" />
       <mapping pattern=".reload" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".jdk8" type="PLAIN_TEXT" />
+      <mapping pattern="pim-integration-tdb-service" type="PLAIN_TEXT" />
+      <mapping pattern="pim-integration-tdb" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="rle" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="joboptions" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="phpunit.xml.dist" type="XML" />
       <mapping ext="xif" type="XML" />

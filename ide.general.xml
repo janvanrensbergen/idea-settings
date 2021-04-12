@@ -10,7 +10,6 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
-    <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="ide.balloon.shadow.size" value="15" />
   </component>
 </application>

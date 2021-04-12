@@ -1,8 +1,12 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="jhtpc.servebeer.com" id="c62d620e-9163-486a-ac95-71e7d44b3fa9" port="8022" customName="Subtitles" nameFormat="CUSTOM" username="jan" />
-      <sshConfig authType="PASSWORD" host="jhtpc.servebeer.com" id="51b34dc8-e6b5-4576-bb9a-62bafe0f3fe1" port="8022" customName="Subtitles" nameFormat="CUSTOM" username="jan" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jhtpc.servebeer.com" id="c62d620e-9163-486a-ac95-71e7d44b3fa9" port="8022" customName="Subtitles" nameFormat="CUSTOM" username="jan">
+        <option name="customName" value="Subtitles" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="jhtpc.servebeer.com" id="51b34dc8-e6b5-4576-bb9a-62bafe0f3fe1" port="8022" customName="Subtitles" nameFormat="CUSTOM" username="jan">
+        <option name="customName" value="Subtitles" />
+      </sshConfig>
     </configs>
   </component>
 </application>

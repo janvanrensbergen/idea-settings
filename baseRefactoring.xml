@@ -12,7 +12,7 @@
     <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="PUSH_DOWN_PREVIEW_USAGES" value="true" />
-    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="EscalateVisible" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="private" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_VAR_TYPE" value="true" />
   </component>

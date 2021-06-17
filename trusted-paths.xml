@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Projects/sandbox" />
+        <option value="$USER_HOME$/Projects/vrt/mediaservices" />
       </list>
     </option>
   </component>

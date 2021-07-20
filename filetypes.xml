@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="JenkinsFileCorreto" type="AUTO_DETECTED" />
       <mapping pattern="*JenkinsFile" type="Groovy" />
       <mapping pattern="JenkinsFile" type="Groovy" />
+      <mapping pattern="JenkinsFileCorretto" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="radar" type="Groovy" />
       <mapping pattern="composer.lock" type="JSON" />

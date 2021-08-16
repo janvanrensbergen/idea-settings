@@ -1,24 +1,24 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="JenkinsFileCorreto" type="AUTO_DETECTED" />
       <mapping pattern="*JenkinsFile" type="Groovy" />
       <mapping pattern="JenkinsFile" type="Groovy" />
-      <mapping pattern="JenkinsFileCorretto" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="JenkinsFileCorretto" type="Groovy" />
       <mapping ext="radar" type="Groovy" />
       <mapping pattern="composer.lock" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="pim-integration-tdb" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".jdk8" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="pim-integration-tdb-service" type="PLAIN_TEXT" />
       <mapping pattern=".reload" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="rle" type="PLAIN_TEXT" />

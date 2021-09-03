@@ -16,4 +16,45 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="fon" value="// @formatter:on" description="formatter on" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="fof" value="// formatter:off" description="formatter off" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="softly" value="org.assertj.core.api.SoftAssertions.assertSoftly { softly -&gt;&#10;    softly.assertThat($END$)&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="klog" value="private val logger = org.slf4j.LoggerFactory.getLogger(javaClass)" description="Slf4j logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
+  <template name="soft" value="org.assertj.core.api.SoftAssertions.assertSoftly(softly -&gt; {&#10;    softly.assertThat($VAR$).isEqualTo($END$);&#10;});" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mock" value="private final $CLASSNAME$ $VAR$ = org.mockito.Mockito.mock($CLASSNAME$.class);$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="clock" value="private final java.time.Clock clock = java.time.Clock.fixed(java.time.Instant.parse(&quot;2021-09-01T12:00:00.000Z&quot;), java.time.ZoneId.of(&quot;UTC&quot;));" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_CONSUMER" value="false" />
+    </context>
+  </template>
 </templateSet>

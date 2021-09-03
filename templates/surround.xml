@@ -9,4 +9,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="F" value="//@formatter:off&#10;&#10;$SELECTION$&#10;&#10;//@formatter:on" description="Surround with formatter:off formatter:on" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

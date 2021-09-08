@@ -50,7 +50,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="clock" value="private final java.time.Clock clock = java.time.Clock.fixed(java.time.Instant.parse(&quot;2021-09-01T12:00:00.000Z&quot;), java.time.ZoneId.of(&quot;UTC&quot;));" toReformat="false" toShortenFQNames="true">
+  <template name="clock" value="private final java.time.Clock clock = java.time.Clock.fixed(java.time.Instant.parse(&quot;2021-09-01T12:00:00.000Z&quot;), java.time.ZoneId.of(&quot;UTC&quot;));" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_COMMENT" value="false" />
